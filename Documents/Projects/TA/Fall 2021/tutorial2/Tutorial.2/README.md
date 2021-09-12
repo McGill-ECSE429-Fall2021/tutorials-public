@@ -1,2 +1,2 @@
-#ecse 429- tutorial2
-Craeting the README.md file for the project
+#ecse 429- tutorial 2
+This is a sample project created using Maven!
